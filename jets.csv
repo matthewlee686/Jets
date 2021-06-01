@@ -1,2 +1,5 @@
-Jet Model,25,100,5300
-Jet Model,1500,1700,250
+Passenger Economy,1000,1200,100
+Passenger Premium,1000,1200,250
+Cargo Plane,1000,1200,300
+Fighter Recon,1000,1200,300
+Fighter Assault,1200,1500,750
