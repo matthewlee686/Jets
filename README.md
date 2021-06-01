@@ -4,7 +4,7 @@
 
 This project shows a Program that takes text based information that will allow a User to see the information stored. It will also allow the User to add to or remove elements of the list. 
 
-There are ___ distinct parts of this Program:
+There are a few distinct parts of this Program:
 
 -It reads information from a text file which is stored into an Array List
 
